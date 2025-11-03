@@ -1,0 +1,1 @@
+export default function BlobBackground() { return ( <div className="absolute inset-0 overflow-hidden"> <div className="blob bg-pink-400 top-[-10%] left-[-10%]"></div> <div className="blob bg-indigo-400 top-[20%] left-[60%]"></div> <div className="blob bg-blue-400 top-[60%] left-[30%]"></div> </div> ); }
